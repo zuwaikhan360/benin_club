@@ -26,7 +26,7 @@ export const addresses: Service[] = [
   },
   {
     id: 4,
-    title: 'call us o',
+    title: 'call us',
     description: tel,
     icon: FaPhone,
     link: '#',
